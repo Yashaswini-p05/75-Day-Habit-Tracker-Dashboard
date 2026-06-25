@@ -67,7 +67,7 @@ The dashboard automatically summarizes challenge performance using calculated me
 
 ## Dashboard Preview
 
-![Dashboard Screenshot](Dashboard_Screenshot.png)
+https://github.com/Yashaswini-p05/75-Day-Habit-Tracker-Dashboard/blob/2f4eebed78bb4387ef23df903fc8d55cfff51080/Dashboard_screenshot.png
 
 ---
 
